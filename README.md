@@ -47,7 +47,6 @@
   </a>
 </p>
 
-
 <h3 align="left">Continuous Integration:</h3>
 <p align="left"> 
   <a href="https://circleci.com" target="_blank" rel="noreferrer"> 
@@ -57,3 +56,39 @@
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
   </a> 
 </p>
+
+<h1 align="center">Some of my projects</h3>
+
+<h3 align="left">Swift & UIKit Applications</h3>
+
+- [Alkemy Project](https://github.com/marianobattaglia/alkemy-project)
+- [Application for an NGO](https://github.com/marianobattaglia/ONG-App)
+- [Not Bored App](https://github.com/marianobattaglia/NotBoredApp)
+- [Rick and Morty App](https://github.com/marianobattaglia/rick-and-morty-app)
+- [Trivia App](https://github.com/marianobattaglia/TriviaApp)
+- [Maltes Products, a product catalog application with Firebase](https://github.com/marianobattaglia/maltes-products)
+- [Google Search Engine using Webkit](https://github.com/marianobattaglia/GoogleWKWebView)
+- [Pokedex App](https://github.com/marianobattaglia/pokedex-ios)
+- [GoodNews: News App by country](https://github.com/marianobattaglia/GoodNews)
+- [HotCoffee: Coffee Ordering Application](https://github.com/marianobattaglia/hotcoffee-ios)
+- [GoodWeather: Weather Application](https://github.com/marianobattaglia/goodweather-ios)
+
+<h3 align="left">SwiftUI Applications</h3>
+
+- [JSON-SwiftUI-JM](https://github.com/marianobattaglia/JSON-SwiftUI-JM)
+
+<h3 align="left">Objective-C Applications</h3>
+
+- [objc-application](https://github.com/marianobattaglia/objc-application)
+
+<h3 align="left">Some repositories for educational</h3>
+
+- [Algorithms and Data Structures](https://github.com/marianobattaglia/algorithms-swift)
+- [AutoLayout with Swift and UIKit](https://github.com/marianobattaglia/auto-layout)
+- [Delegate Protocol with Swift](https://github.com/marianobattaglia/delegate-protocol-example)
+- [JSON Parsing with Swift](https://github.com/marianobattaglia/json-parsing)
+- [MVVM with Swift](https://github.com/marianobattaglia/mvvm-example)
+- [Objective-C Examples](https://github.com/marianobattaglia/objc-examples)
+- [Design Patterns with Swift](https://github.com/marianobattaglia/design-patterns-swift)
+- [Clean & Solid Principles](https://github.com/marianobattaglia/clean-solid-principles)
+- [RxSwift](https://github.com/marianobattaglia/RxSwift-examples)
