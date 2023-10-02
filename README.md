@@ -76,6 +76,10 @@
 <h3 align="left">SwiftUI Applications</h3>
 
 - [JSON-SwiftUI-JM](https://github.com/marianobattaglia/JSON-SwiftUI-JM)
+- [MVVM-SwiftUI-MA](https://github.com/marianobattaglia/swiftui-mvvm)
+- [MoviesApp](https://github.com/marianobattaglia/movies-swiftui)
+- [BankApp](https://github.com/marianobattaglia/bank-swiftui)
+- [WeatherApp](https://github.com/marianobattaglia/weather-swiftui)
 
 <h3 align="left">Objective-C Applications</h3>
 
