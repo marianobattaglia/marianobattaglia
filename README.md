@@ -72,6 +72,7 @@
 - [GoodNews: News App by country](https://github.com/marianobattaglia/GoodNews)
 - [HotCoffee: Coffee Ordering Application](https://github.com/marianobattaglia/hotcoffee-ios)
 - [GoodWeather: Weather Application](https://github.com/marianobattaglia/goodweather-ios)
+- [Local Notifications: Run Push Notifications on Simulator](https://github.com/marianobattaglia/local-notifications-ios)
 
 <h3 align="left">SwiftUI Applications</h3>
 
