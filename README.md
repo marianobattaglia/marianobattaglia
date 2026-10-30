@@ -1,4 +1,3 @@
-[![MasterHead](https://uncle.today/img/jumbo_howto_signupappledeveloperaccount.jpg)](https://marianobattaglia.io)
 <h1 align="center">Hi 👋, I'm Mariano Battaglia</h1>
 <h3 align="center">A passionate iOS developer from Buenos Aires, Argentina 🇦🇷</h3>
 <img align="right" alt="Coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
